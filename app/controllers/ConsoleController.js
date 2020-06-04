@@ -1,6 +1,5 @@
 const PuppeteerClass = require('../../library/Puppeteer');
 const ConsoleRequest = require('../request/ConsoleRequest');
-// const stringifyObject = require('stringify-object');
 
 class TranslateController {
 
