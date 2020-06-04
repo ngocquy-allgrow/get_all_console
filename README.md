@@ -40,5 +40,12 @@
 
 ### Data trả về lỗi
 ```bash
-    http1://toancaumobile.vn/
+    {
+        "sucess": false,
+        "data": {
+            "url": [
+                "Url invalid"
+            ]
+        }
+    }
 ```
